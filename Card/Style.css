@@ -1,0 +1,47 @@
+body{
+      font-family:Arial, Helvetica, sans-serif;
+}
+.card{
+      border: 2px solid rgb(16, 16, 15);
+      width: 200px;
+      
+}
+.card-image{
+
+      width: 200px;
+      position:relative;
+
+}
+.card-title{
+      position: relative;
+      left: 7px;
+}
+hr{
+      
+     border: 1px solid rgb(16, 16, 15);
+    
+}
+.house{
+      position: relative;
+      left: 7px;
+
+}
+.dukes{
+      position: relative;
+      left: 7px;
+
+}
+.grass{
+      position: relative;
+      left: 7px;
+
+}
+.links{
+      position: relative;
+      left: 7px;
+}
+.another-photo{
+      position: relative;
+      left: 14px;
+
+}
